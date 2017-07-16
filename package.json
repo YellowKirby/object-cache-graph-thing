@@ -76,9 +76,9 @@
   "babel": {
     "plugins": [
       [
+        "lodash",
         "transform-runtime",
-        "transform-object-rest-spread",
-        "lodash"
+        "transform-object-rest-spread"
       ]
     ],
     "presets": [
